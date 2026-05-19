@@ -1,4 +1,4 @@
-name: 0x01 dl
+name: 0x01s dl
 
 on:
   workflow_dispatch:
