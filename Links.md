@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-07-19 15:41 IR — 📦 1 file(s) · 40.6 MB
+- 🎬 [PS4_Slim_Teardown_-_Detailed_Disassembly_Guide.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/PS4_Slim_Teardown_-_Detailed_Disassembly_Guide.mp4) `40.6MB`
+
+---
+
+
 ### 📅 2026-07-19 08:48 IR — 📦 7 file(s) · 528.8 MB
 - 🗜️ [29._Depression_by_Robert_Sapolsky.7z.001](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/29._Depression_by_Robert_Sapolsky.7z.001) `95.0MB`
 
