@@ -2,6 +2,22 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-08-05 14:52 IR — 📦 6 file(s) · 311.7 MB
+- 🎬 [PS4_PS5_Jailbreak_News__New_WebKit_and_Blu-Ray_Userland_exploits_revealed_up_to_the_latest_firmwares.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/PS4_PS5_Jailbreak_News__New_WebKit_and_Blu-Ray_Userland_exploits_revealed_up_to_the_latest_firmwares.mp4) `15.2MB`
+
+- 🗜️ [TRT_Influencers_and_Myths_vs_Facts_-_Who_do_you_trust.7z.001](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/TRT_Influencers_and_Myths_vs_Facts_-_Who_do_you_trust.7z.001) `95.0MB`
+
+- 🗜️ [TRT_Influencers_and_Myths_vs_Facts_-_Who_do_you_trust.7z.002](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/TRT_Influencers_and_Myths_vs_Facts_-_Who_do_you_trust.7z.002) `43.3MB`
+
+- 🗜️ [Two_TRT_Doctors_Tried_to_Discredit_Me_—_Here's_The_Full_Story.7z.001](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Two_TRT_Doctors_Tried_to_Discredit_Me_%E2%80%94_Here%27s_The_Full_Story.7z.001) `95.0MB`
+
+- 🗜️ [Two_TRT_Doctors_Tried_to_Discredit_Me_—_Here's_The_Full_Story.7z.002](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Two_TRT_Doctors_Tried_to_Discredit_Me_%E2%80%94_Here%27s_The_Full_Story.7z.002) `24.0MB`
+
+- 🎬 [What_we_can_learn_from_PP405’s_failure.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/What_we_can_learn_from_PP405%E2%80%99s_failure.mp4) `39.2MB`
+
+---
+
+
 ### 📅 2026-08-03 15:45 IR — 📦 3 file(s) · 259.6 MB
 - 🗜️ [How_Your_Immune_System_Works_How_to_Improve_It_Dr._Max_Krummel.7z.001](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/How_Your_Immune_System_Works_How_to_Improve_It_Dr._Max_Krummel.7z.001) `95.0MB`
 
