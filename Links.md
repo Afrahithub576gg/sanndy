@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-09-12 10:30 IR — 📦 4 file(s) · 120.6 MB
+- 🎬 [Oxandrolone_Efficacy_in_Wound_Healing_in_Burned_and_Decubitus_Ulcer_Patients_A_Systematic_Review.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Oxandrolone_Efficacy_in_Wound_Healing_in_Burned_and_Decubitus_Ulcer_Patients_A_Systematic_Review.mp4) `17.6MB`
+
+- 🎬 [Oxandrolone_induced_lean_mass_gain_during_recovery_from_severe_burns_is_maintained_after_discontinua.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Oxandrolone_induced_lean_mass_gain_during_recovery_from_severe_burns_is_maintained_after_discontinua.mp4) `8.6MB`
+
+- 🎬 [Stanozolol_as_a_novel_therapuetic_agent_in_dermatology.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Stanozolol_as_a_novel_therapuetic_agent_in_dermatology.mp4) `26.2MB`
+
+- 🎬 [Taeian_Clark_is_live.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Taeian_Clark_is_live.mp4) `68.2MB`
+
+---
+
+
 ### 📅 2026-09-11 09:46 IR — 📦 28 file(s) · 1435.9 MB
 - 🎬 [160_-_The_Biggest_Myth_About_Mitochondrial_Health.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/160_-_The_Biggest_Myth_About_Mitochondrial_Health.mp4) `57.3MB`
 
