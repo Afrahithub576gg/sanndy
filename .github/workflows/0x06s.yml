@@ -1,4 +1,4 @@
-name: 0x03s dl
+name: 0x06s dl
 
 on:
   workflow_dispatch:
