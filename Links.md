@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-09-21 08:57 IR — 📦 3 file(s) · 218.9 MB
+- 🎬 [15_Amazing_Secrets_in_the_Shadow_of_the_Erdtree_DLC.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/15_Amazing_Secrets_in_the_Shadow_of_the_Erdtree_DLC.mp4) `36.3MB`
+
+- 🗜️ [Thoroughly_exploring_the_first_area_of_Elden_Ring_s_DLC.7z.001](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Thoroughly_exploring_the_first_area_of_Elden_Ring_s_DLC.7z.001) `95.0MB`
+
+- 🗜️ [Thoroughly_exploring_the_first_area_of_Elden_Ring_s_DLC.7z.002](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Thoroughly_exploring_the_first_area_of_Elden_Ring_s_DLC.7z.002) `87.6MB`
+
+---
+
+
 ### 📅 2026-09-21 08:53 IR — 📦 4 file(s) · 258.2 MB
 - 🎬 [15_Useful_Map_Secrets_in_Elden_Ring_-_Nightreign.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/15_Useful_Map_Secrets_in_Elden_Ring_-_Nightreign.mp4) `38.7MB`
 
