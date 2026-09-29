@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        body {
+            text-align: center;
+            color: #fff;
+            direction: rtl;
+            font-family: tahoma;
+            background: url('https://s31.picofile.com/file/8474496942/john_wick.jpg') no-repeat center center / cover fixed;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        
+        body img {
+            max-width: 100%;
+        }
+        
+        .user-container {
+    position: relative;
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.5); /* پس زمینه با هاله */
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* سایه */
+}
+
+.user-greeting {
+    font-size: 3rem;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+.user-message {
+    font-size: 1.6rem;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    line-height: 1.8;
+}
+
+.user-message h2 {
+    font-size: 1.8rem;
+    color: #ffcc00;
+    margin-bottom: 10px;
+}
+
+.user-message ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-message ul li {
+    margin-bottom: 5px;
+}
+
+.user-message ul li:before {
+    content: "•";
+    color: #ffcc00;
+    margin-right: 5px;
+}
+
+.button {
+    display: inline-block;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 30px;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.button.primary {
+    background-color: #ffcc00;
+    color: #000000;
+}
+
+.button.primary:hover {
+    background-color: #ffd633;
+    color: #000000;
+}
+
+.button.secondary {
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid #ffcc00;
+}
+
+.button.secondary:hover {
+    background-color: #ffcc00;
+    color: #000000;
+}
+
+        a.button {
+            display: inline-block;
+            padding: 0.35em 1.2em 0.65em;
+            border: 0.1em solid #FFFFFF;
+            margin: 0 0.3em 0.3em 0;
+            border-radius: 0.12em;
+            box-sizing: border-box;
+            text-decoration: none;
+            font-family: tahoma;
+            font-weight: 300;
+            color: #FFFFFF;
+            text-align: center;
+            transition: all 0.2s;
+            background-color: #6b0909;
+        }
+        
+        a.button:hover {
+            color: #000000;
+            background-color: #FFFFFF;
+        }
+        
+        @media all and (max-width:30em) {
+            a.button1 {
+                display: block;
+                margin: 0.4em auto;
+            }
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>فیلتر شکن را خاموش کنید</title>
+</head>
+
+<body>
+     <div class="user-container">
+    <p class="user-greeting">کاربر گرامی</p>
+    <div class="user-message">
+        <!--<h2>در صورتی که میخواهید با فیلترشکن/VPN دانلود کنید، اشتراک ویژه تهیه نمایید.</h2>-->
+        <h2>لطفا فیلترشکن/VPN خود را خاموش نموده و بر روی رفرش صفحه بزنید.</h2>
+		<!--
+        <h2>مزایای تهیه اشتراک:</h2>
+        <ul>
+            <li>دانلود با سرعت بالا نسبت به کاربر رایگان</li>
+            <li>امکان دانلود برای کاربران خارج از کشور</li>
+            <li>حذف تبلیغات مزاحم</li>
+            <li>پخش آنلاین فیلم و سریال</li>
+            <li>پشتیبانی از طریق تیکت</li>
+        </ul>
+		-->
+    </div>
+</div>
+ <div class="button-container">
+      <!-- <a href="#" class="button primary">خرید اشتراک ویژه</a>-->
+<a href="#" class="button secondary">رفرش صفحه</a>
+    </div>
+
+
+</body>
+
+</html>
