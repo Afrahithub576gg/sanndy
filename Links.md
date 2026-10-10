@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-10-10 07:56 IR — 📦 2 file(s) · 118.3 MB
+- 🗜️ [Ranking_All_36_Elden_Ring_NPC_Quests_From_Worst_To_Best.7z.001](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Ranking_All_36_Elden_Ring_NPC_Quests_From_Worst_To_Best.7z.001) `95.0MB`
+
+- 🗜️ [Ranking_All_36_Elden_Ring_NPC_Quests_From_Worst_To_Best.7z.002](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Ranking_All_36_Elden_Ring_NPC_Quests_From_Worst_To_Best.7z.002) `23.3MB`
+
+---
+
+
 ### 📅 2026-10-09 21:21 IR — 📦 2 file(s) · 72.0 MB
 - 🎬 [082_-_How_many_roads_lead_to_ME_CFS.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/082_-_How_many_roads_lead_to_ME_CFS.mp4) `20.1MB`
 
