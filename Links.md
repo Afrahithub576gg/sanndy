@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-10-22 09:09 IR — 📦 2 file(s) · 118.6 MB
+- 🎬 [Biggest_finasteride_study_ever_proves_Post-Finasteride_Syndrome_is_FAKE.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/Biggest_finasteride_study_ever_proves_Post-Finasteride_Syndrome_is_FAKE.mp4) `32.9MB`
+
+- 🎬 [How_to_Build_a_Smartphone_-_Full_Factory_Tour.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/How_to_Build_a_Smartphone_-_Full_Factory_Tour.mp4) `85.7MB`
+
+---
+
+
 ### 📅 2026-10-21 10:43 IR — 📦 1 file(s) · 39.8 MB
 - 🎬 [WhiteDNS.mp4](https://github.com/Afrahithub576gg/sanndy/raw/main/dl/WhiteDNS.mp4) `39.8MB`
 
